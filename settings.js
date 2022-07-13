@@ -20,7 +20,7 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is DARK NERO🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+My Creator is Kaveesha sithum😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94774579505'] //Owner number in aive msg
 global.premium = ['+94774579505'] //Owner Number info
@@ -30,7 +30,7 @@ global.ownername = '😎KAVEESHA' //Owner Name
 global.botname = ' ☬DARK༒NERO࿐' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.btnurl = 'https://github.com/Kaveeshasithum/DARK-NERO-.git' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
