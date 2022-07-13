@@ -59,8 +59,7 @@ LATEST VERSION 6.5 (2022-07-05 [Get videos 360p, 480p, 720p])
 
 > 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@Kaveesha2006/DARK-NERO?v=1)
  
-> 🙂➾ [Fork This Repo By Clicking Here](https://github.com/Kaveeshasithum
-/DARK-NERO-/fork)
+> 🙂➾ [Fork This Repo By Clicking Here](https://github.com/Kaveeshasithum/DARK-NERO/fork)
  
 > 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
 
