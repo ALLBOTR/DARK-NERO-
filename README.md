@@ -146,7 +146,7 @@ LATEST VERSION 6.5 (2022-07-05 [Get videos 360p, 480p, 720p])
 	
 <div align="center">
 	
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Kaveesha2006/DARK-NERO?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 </div>
