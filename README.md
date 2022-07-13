@@ -63,7 +63,7 @@ LATEST VERSION 6.5 (2022-07-05 [Get videos 360p, 480p, 720p])
  
 > 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
 
-> 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
+
 
 
 
